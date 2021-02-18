@@ -1,3 +1,3 @@
 # wxpython
 
-## use wxpython package to build a GUI interface 
+## Use python package (wxpython) to build a GUI interface 
